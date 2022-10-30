@@ -1,7 +1,7 @@
 import openai
 import streamlit as st
 
-api_key = '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'
+api_key = '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'
 openai.api_key = api_key
 st.header("Talk to me 🙂 ")
 
